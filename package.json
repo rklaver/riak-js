@@ -1,6 +1,6 @@
 {
-   "name": "joyentriak",
-   "version": "0.4.7",
+   "name": "riak-js",
+   "version": "0.4.1",
    "description": "Riak client with support for HTTP and Protocol Buffers",
    "keywords": [
        "riak",
